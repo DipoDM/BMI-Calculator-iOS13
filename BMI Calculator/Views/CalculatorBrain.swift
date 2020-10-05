@@ -23,7 +23,6 @@ struct CalculatorBrain {
         } else {
             bmi = BMI(value: bmiValue, advice: "You eat less and exercise more", color: #colorLiteral(red: 0.5725490451, green: 0, blue: 0.2313725501, alpha: 1))
         }
-        //
     }
     
     func getBMIValue() -> String{

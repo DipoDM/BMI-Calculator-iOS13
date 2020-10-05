@@ -27,6 +27,5 @@ class ResultsViewController: UIViewController {
         tipLabel.text = advice
         view.backgroundColor = color
 
-        // Do any additional setup after loading the view.
     }
 }
